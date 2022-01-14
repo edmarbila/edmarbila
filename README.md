@@ -20,8 +20,8 @@ Atualmente estou estudando e me especializando em desenvolvimento de sistemas, t
  
 # Inspiration:
 <p float="left">
-  <https://github.com/edmarbila/edmarbila/blob/f7bb4ab253079c4d4e0efe8c896ba88f140c8b49/img/gif1.gif" width="420" height="300"/>
-  <https://github.com/edmarbila/edmarbila/blob/f7bb4ab253079c4d4e0efe8c896ba88f140c8b49/img/gif2.gif" width="420" height="300"/>
+  <img src="https://github.com/edmarbila/edmarbila/blob/f7bb4ab253079c4d4e0efe8c896ba88f140c8b49/img/gif1.gif" width="420" height="300"/>
+  <img src="https://github.com/edmarbila/edmarbila/blob/f7bb4ab253079c4d4e0efe8c896ba88f140c8b49/img/gif2.gif" width="420" height="300"/>
 <p/>
 
 # Learning Skills:
